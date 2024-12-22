@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button{
+    color: #6a6f4c;
+    font-size: 25px;
+    margin-bottom: 20px;
+
+}
+
